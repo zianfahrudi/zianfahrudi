@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Zian Fahrudy</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+# Hi, I'm Zian Fahrudi 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/zian-fahrudi-6876b22a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/udiy.enyotz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/udiy.enyotz/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/zianfahrudyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zianfahrudyy/" height="30" width="40" /></a>
-</p>
+Focusing on building high-performance mobile and backend applications using:
+**Flutter** | **FlutterFlow** | **Dart Frog**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zianfahrudy&show_icons=true&locale=en&layout=compact" alt="zianfahrudy" /></p>
+### My Apps & Projects
+[![Play Store](https://img.shields.io/badge/Play_Store-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=dummy)
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/dummy)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=browser&logoColor=white)](https://zianfahrudi.com)
+
+---
+
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dummy)
