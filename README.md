@@ -23,15 +23,15 @@ A professional cupping therapy (bekam) service platform for my wife's business.
 ---
 
 ### My Apps & Projects
-[![Play Store](https://img.shields.io/badge/Play_Store-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=dummy)
-[![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/dummy)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=browser&logoColor=white)](https://zianfahrudi.com)
+[![Play Store](https://img.shields.io/badge/Play_Store-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8256958823322432529)
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=browser&logoColor=white)](https://ziandev.site)
 
 ---
 
 ### Connect with me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zianfahrudi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dummy)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@dummy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zian-fahrudi)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@zianfahrudyy)
 
-*I share free tutorials and insights about my tech expertise on YouTube!*
+*I share free tutorials and insights about my tech expertise on YouTube & Threads*
