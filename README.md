@@ -3,7 +3,7 @@
 👨‍💻 **Full-time Flutter Developer at Goldstep Indonesia**
 
 ### What I Do
-- 📱 **Flutter**: Expert in building high-performance mobile applications for **Android & iOS**.
+- 📱 **Flutter**: Expert in building high-performance mobile applications for **Android & iOS** with **5+ years of experience**.
 - 🛠️ **FlutterFlow**: Leveraging **No-Code** efficiency to accelerate development while maintaining power.
 - 🐸 **Dart Frog**: Building robust and scalable **Backend** solutions using Dart.
 - 🌐 **Elementor**: Crafting beautiful and functional websites as a **Website Builder** specialist.
@@ -32,5 +32,6 @@ A professional cupping therapy (bekam) service platform for my wife's business.
 ### Connect with me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zianfahrudi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dummy)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@dummy)
 
 *I share free tutorials and insights about my tech expertise on YouTube!*
