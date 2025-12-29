@@ -1,7 +1,16 @@
 # Hi, I'm Zian Fahrudi 👋
 
-Focusing on building high-performance mobile and backend applications using:
-**Flutter** | **FlutterFlow** | **Dart Frog**
+### What I Do
+- 📱 **Flutter**: Expert in building high-performance mobile applications for **Android & iOS**.
+- 🛠️ **FlutterFlow**: Leveraging **No-Code** efficiency to accelerate development while maintaining power.
+- 🐸 **Dart Frog**: Building robust and scalable **Backend** solutions using Dart.
+- 🌐 **Elementor**: Crafting beautiful and functional websites as a **Website Builder** specialist.
+
+---
+
+### Featured Project
+🚀 **Owner of [AWundangan.com](https://awundangan.com)**  
+A premier digital wedding invitation platform.
 
 ---
 
