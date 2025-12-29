@@ -1,5 +1,7 @@
 # Hi, I'm Zian Fahrudi 👋
 
+👨‍💻 **Full-time Flutter Developer at Goldstep Indonesia**
+
 ### What I Do
 - 📱 **Flutter**: Expert in building high-performance mobile applications for **Android & iOS**.
 - 🛠️ **FlutterFlow**: Leveraging **No-Code** efficiency to accelerate development while maintaining power.
@@ -8,9 +10,12 @@
 
 ---
 
-### Featured Project
+### Featured Projects
 🚀 **Owner of [AWundangan.com](https://awundangan.com)**  
-A premier digital wedding invitation platform.
+A premier digital wedding invitation platform, proudly helped **50+ couples** celebrate their special day.
+
+💆‍♂️ **Developing [Segiabekam.my.id](https://segiabekam.my.id)**  
+A professional cupping therapy (bekam) service platform for my wife's business.
 
 ---
 
