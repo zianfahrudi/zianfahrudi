@@ -14,6 +14,9 @@
 🚀 **Owner of [AWundangan.com](https://awundangan.com)**  
 A premier digital wedding invitation platform, proudly helped **50+ couples** celebrate their special day.
 
+🎨 **Active Creator on [FlutterFlow Marketplace](https://marketplace.flutterflow.io/creator/d31d48ee5aee9ea76206566ef9e49b39893c9a52)**  
+Building and sharing premium templates, with **2+ items sold** to date.
+
 💆‍♂️ **Developing [Segiabekam.my.id](https://segiabekam.my.id)**  
 A professional cupping therapy (bekam) service platform for my wife's business.
 
@@ -27,4 +30,7 @@ A professional cupping therapy (bekam) service platform for my wife's business.
 ---
 
 ### Connect with me
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zianfahrudi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dummy)
+
+*I share free tutorials and insights about my tech expertise on YouTube!*
