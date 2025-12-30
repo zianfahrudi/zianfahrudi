@@ -17,7 +17,7 @@ A premier digital wedding invitation platform, proudly helped **50+ couples** ce
 🎨 **Active Creator on [FlutterFlow Marketplace](https://marketplace.flutterflow.io/creator/d31d48ee5aee9ea76206566ef9e49b39893c9a52)**  
 Building and sharing premium templates, with **2+ items sold** to date.
 
-🏗️ **Featured Freelance Project**: **SIKSOROGO**
+🏗️ **Featured Freelance Project**: **[SIKSOROGO]**
 A premier trail running application in Indonesia with **15k+ active users**. Orchestrating extreme race registrations and community updates.
 - 📱 [Play Store](https://play.google.com/store/apps/details?id=com.siksorogo.app) | [App Store](https://apps.apple.com/id/app/siksorogo/id6503171657)
 
