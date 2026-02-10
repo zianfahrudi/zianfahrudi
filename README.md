@@ -6,7 +6,6 @@
 - 📱 **Flutter**: Expert in building high-performance mobile applications for **Android & iOS** with **5+ years of experience**.
 - 🛠️ **FlutterFlow**: Leveraging **No-Code** efficiency to accelerate development while maintaining power.
 - 🐸 **Dart Frog**: Building robust and scalable **Backend** solutions using Dart.
-- 🌐 **Elementor**: Crafting beautiful and functional websites as a **Website Builder** specialist.
 
 ---
 
