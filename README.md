@@ -1,8 +1,6 @@
 # Hi, I'm Zian Fahrudi 👋
 
 👨‍💻 Full-time **Flutter Developer at Goldstep Indonesia**  
-🚀 Passionate about building impactful digital products
-
 ---
 
 ## 🚀 About Me
@@ -10,7 +8,6 @@
 - 🛠️ Using **FlutterFlow** to accelerate development with no-code power
 - 🐸 Building scalable backend using **Dart Frog**
 - 🎯 Focused on creating **useful, real-world solutions**
-
 ---
 
 ## 🧩 What I'm Building
@@ -57,7 +54,7 @@ Maintaining open-source Flutter packages for the community
 [![Play Store](https://img.shields.io/badge/Play_Store-000000?style=for-the-badge&logo=google-play&logoColor=white)](#)
 [![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
 
-> 🚧 Developer accounts for Play Store & App Store are currently in activation process
+> 🚧 Developer accounts for App Store are currently in activation process
 
 ---
 
@@ -71,22 +68,6 @@ I share knowledge about:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zianfahrudi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zian-fahrudi)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@zianfahrudyy)
-
----
-
-## ⚡ Tech Stack
-- Flutter / Dart
-- FlutterFlow
-- Dart Frog (Backend)
-- REST API / Firebase / Supabase (optional if you use)
-
----
-
-## 🤝 Let's Collaborate
-Open for:
-- Flutter app development
-- MVP building
-- Productivity app ideas
 
 ---
 
