@@ -27,11 +27,11 @@ simple, focused tools that solve specific daily problems.
 
 ---
 
-## 📱 Featured Mobile Projects
+## 📱 Featured Projects
 
 ### 🚀 [AWundangan.com](https://awundangan.com)
 A digital wedding invitation platform built with Flutter  
-✨ Helped **50+ couples** celebrate their special day  
+✨ Helped **100+ couples** celebrate their special day  
 📱 Focused on performance, UX, and real user needs
 
 ---
