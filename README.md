@@ -1,6 +1,7 @@
 # Hi, I'm Zian Fahrudi 👋
 
 👨‍💻 Full-time **Flutter Developer at Goldstep Indonesia**  
+
 ---
 
 ## 🚀 About Me
@@ -18,14 +19,6 @@ simple, focused tools that solve specific daily problems.
 
 ### ⏰ Current Project
 > An **Alarm App — but not your typical alarm.**
-
-Designed to improve:
-- waking consistency  
-- habit building  
-- real behavioral change  
-
-*(More details coming soon 👀)*
-
 ---
 
 ## 🌐 Featured Projects
