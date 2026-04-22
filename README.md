@@ -19,15 +19,12 @@ Building and sharing premium templates, with **2+ items sold** to date.
 📦 **Open Source Contributions ([pub.dev](https://pub.dev/publishers/zianfahrudy.my.id/packages))**  
 Maintaining high-quality Flutter packages for the community.
 
-💆‍♂️ **Developing [Segiabekam.my.id](https://segiabekam.my.id)**  
-A professional cupping therapy (bekam) service platform for my wife's business.
-
 ---
 
 ### My Presence
 [![Play Store](https://img.shields.io/badge/Play_Store-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8256958823322432529)
 [![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/id/app/siksorogo/id6503171657)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=browser&logoColor=white)](https://ziandev.site)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=browser&logoColor=white)](https://tools.ziandev.site)
 
 ---
 
