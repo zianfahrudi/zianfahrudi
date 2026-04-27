@@ -1,6 +1,6 @@
 # Hi, I'm Zian Fahrudi 👋
 
-Flutter Developer at [Goldstep Indonesia](https://goldstep.id)
+Flutter Developer at [Goldstep Indonesia]
 
 I build **micro-niche productivity apps** — simple, focused tools that solve real daily problems.
 
