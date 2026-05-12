@@ -1,6 +1,5 @@
 # Hi, I'm Zian Fahrudi 👋
 
----
 **Currently building:**
 - My Resume at [ziandev.site](https://ziandev.site)
 - Open source packages on [pub.dev](https://pub.dev/publishers/zianfahrudy.my.id/packages)
