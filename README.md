@@ -2,8 +2,6 @@
 
 Flutter Developer at **Goldstep Indonesia**
 
-I build **micro-niche productivity apps** — simple, focused tools that solve real daily problems.
-
 ---
 
 **Currently building:**
