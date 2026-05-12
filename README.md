@@ -1,15 +1,11 @@
 # Hi, I'm Zian Fahrudi 👋
 
-Flutter Developer at **Goldstep Indonesia**
-
 ---
-
 **Currently building:**
 - My Resume at [ziandev.site](https://ziandev.site)
 - Open source packages on [pub.dev](https://pub.dev/publishers/zianfahrudy.my.id/packages)
 - Digital wedding invitations at [awundangan.com](https://awundangan.web.id)
 - Flutter app templates on [FlutterFlow Marketplace](https://marketplace.flutterflow.io/creator/d31d48ee5aee9ea76206566ef9e49b39893c9a52)
-
 ---
 
 Find me on
