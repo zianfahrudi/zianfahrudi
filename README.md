@@ -3,7 +3,7 @@
 **Currently building:**
 - All in one video downloader on [downlodr](https://www.downlodr.app/)
 - Open source packages on [pub.dev](https://pub.dev/publishers/ziandev.site/packages)
-- Digital wedding invitations at [awundangan.web.id](https://awundangan.web.id)
+- Digital wedding invitations at [AWundangan](https://awundangan.web.id)
 ---
 
 Find me on
