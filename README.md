@@ -1,7 +1,7 @@
 # Hi, I'm Zian Fahrudi 👋
 
 **Currently building:**
-- All in one video & audio downloader on [downlodr](https://www.downlodr.app/)
+- All in one video & audio downloader on [downlodr](https://www.downlodr.app/) revenue $150+
 - Open source packages on [pub.dev](https://pub.dev/publishers/ziandev.site/packages)
 - Digital wedding invitations at [AWundangan](https://awundangan.web.id)
 ---
